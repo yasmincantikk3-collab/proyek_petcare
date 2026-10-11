@@ -3,7 +3,7 @@
 
 ---
 
-## 📌 Identitas Mahasiswa
+##  Identitas Mahasiswa
 * **Nama:** Yasmin
 * **NPM:** 2517052008
 * **Kelas / Program Studi:** SI-A / S1 Sistem Informasi
@@ -11,7 +11,7 @@
 
 ---
 
-## 📂 Struktur Proyek & Modul
+##  Struktur Proyek & Modul
 Proyek ini dirancang secara modular menggunakan package Python (`petcare/`) dengan pemisahan tugas (*separation of concerns*):
 * `main.py` : Berisi antarmuka menu interaktif utama program.
 * `rekam_medis.txt` : Berfungsi sebagai database berbasis file teks (.txt) dengan pemisah titik koma (`;`).
@@ -24,7 +24,7 @@ Proyek ini dirancang secara modular menggunakan package Python (`petcare/`) deng
 
 ---
 
-## 🚀 Cara Menjalankan Program
+##  Cara Menjalankan Program
 1. Pastikan Python sudah terinstal di komputer Anda.
 2. Unduh atau clone repository ini.
 3. Buka terminal atau PowerShell pada direktori proyek.
